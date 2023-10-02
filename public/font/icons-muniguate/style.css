@@ -1,0 +1,132 @@
+@font-face {
+    font-family: 'icomoon';
+    src:  url('fonts/icomoon.eot?7dpjkb');
+    src:  url('fonts/icomoon.eot?7dpjkb#iefix') format('embedded-opentype'),
+      url('fonts/icomoon.ttf?7dpjkb') format('truetype'),
+      url('fonts/icomoon.woff?7dpjkb') format('woff'),
+      url('fonts/icomoon.svg?7dpjkb#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  [class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+  
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .icon-Contactenos:before {
+    content: "\e900";
+  }
+  .icon-Empagua:before {
+    content: "\e901";
+  }
+  .icon-faqs:before {
+    content: "\e902";
+  }
+  .icon-Historial:before {
+    content: "\e903";
+  }
+  .icon-IUSI:before {
+    content: "\e904";
+  }
+  .icon-Ornato:before {
+    content: "\e905";
+  }
+  .icon-Perfil:before {
+    content: "\e906";
+  }
+  .icon-Salir:before {
+    content: "\e907";
+  }
+  .icon-invoice:before {
+    content: "\e908";
+  }
+  .icon-datos-procesados:before {
+    content: "\e92b";
+  }
+  .icon-hourglass:before {
+    content: "\e92c";
+  }
+  .icon-ingresar-datos:before {
+    content: "\e92d";
+  }
+  .icon-Bomberos_Municipales:before {
+    content: "\e400";
+  }
+  .icon-Bomberos_Voluntarios:before {
+    content: "\e401";
+  }
+  .icon-Call_Center:before {
+    content: "\e402";
+  }
+  .icon-Cruz_Roja:before {
+    content: "\e403";
+  }
+  .icon-Facebook:before {
+    content: "\e404";
+  }
+  .icon-Conred:before {
+    content: "\e405";
+  }
+  .icon-Igss:before {
+    content: "\e406";
+  }
+  .icon-Instagram:before {
+    content: "\e407";
+  }
+  .icon-PMT:before {
+    content: "\e40a";
+  }
+  .icon-PNC:before {
+    content: "\e40b";
+  }
+  .icon-Roosevelt:before {
+    content: "\e40c";
+  }
+  .icon-San_Juan-_De-_Dios:before {
+    content: "\e40d";
+  }
+  .icon-Twitter:before {
+    content: "\e40e";
+  }
+  .icon-You_tube:before {
+    content: "\e40f";
+  }
+  .icon-directorio:before {
+    content: "\e49f";
+  }
+  .icon-EXPEDIENTE-WEB:before {
+    content: "\e50e";
+  }
+  .icon-bomberos:before {
+    content: "\e909";
+  }
+  .icon-call-center:before {
+    content: "\e90a";
+  }
+  .icon-user:before {
+    content: "\e90b";
+  }
+  .icon-empagua:before {
+    content: "\e90c";
+  }
+  .icon-iusi-muniguate:before {
+    content: "\e90d";
+  }
+  .icon-multas:before {
+    content: "\e90e";
+  }
+  .icon-ornato:before {
+    content: "\e90f";
+  }
+  
